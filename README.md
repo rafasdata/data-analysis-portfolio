@@ -114,3 +114,12 @@ This project includes an automated GitHub Actions deployment workflow at `.githu
 
 - **Browser Memory Limits**: CSV files are parsed and held in client memory; extremely large CSV files (>100MB) may experience browser memory limits.
 - **Rule-Based Insights**: Insights are generated automatically using deterministic data quality and statistical rules (no external paid AI / LLM APIs are invoked).
+
+---
+
+## 👩‍💻 Project Creator
+
+Created as a hands-on portfolio project to demonstrate practical skills in data quality, exploratory data analysis, descriptive statistics, and business insights.
+
+**GitHub:** [rafasdata](https://github.com/rafasdata)
+
